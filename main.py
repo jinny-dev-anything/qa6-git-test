@@ -1,2 +1,1 @@
-print('hi')
-ptiny('bye')
+print('bye')
