@@ -4,4 +4,4 @@ print('aaa')
 
 print("featrueAAA")
 print("featureBBB")
-print("A")
+print("AA")
