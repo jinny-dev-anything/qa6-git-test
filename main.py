@@ -1,0 +1,2 @@
+print('hi')
+ptiny('bye')
